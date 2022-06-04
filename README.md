@@ -1,1 +1,1 @@
-# bloggin xml ER diagram
+# blogging xml ER diagram
